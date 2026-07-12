@@ -1,17 +1,13 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        freq = {}
+        maps = {}
+        answer = []
+        for i in nums:
+            maps[i] = maps.get(i, 0) + 1
 
-        for num in nums:
-            freq[num] = freq.get(num, 0) + 1
-
-        items = list(freq.items())
-
-        items.sort(key=lambda x: x[1], reverse=True)
-
-        ans = []
+        sorted_list = sorted(maps.items(), key=lambda x:x[1], reverse = True)
 
         for i in range(k):
-            ans.append(items[i][0])
+            answer.append(sorted_list[i][0])
 
-        return ans
+        return answer
