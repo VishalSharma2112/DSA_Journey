@@ -1,9 +1,13 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        length = len(nums)/2
-        maps = {}
-
+        length = len(nums)//2
+        count = 0
         for i in nums:
-            maps[i] = maps.get(i, 0) + 1
-            if maps[i] > length:
-                return i
+            if count == 0:
+                element = i
+                count += 1
+            elif element != i:
+                count -= 1
+            else:
+                count +=1
+        return element
