@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1291-sequential-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
