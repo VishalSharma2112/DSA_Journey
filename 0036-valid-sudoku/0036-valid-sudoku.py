@@ -15,17 +15,14 @@ class Solution:
                     if row_check[num-1] == 0:
                         row_check[num-1] = 1
                     else:
-                        answer = False
-                        break
+                        return False
                     if num not in maps[column]:
                         maps[column][num] = row
                     else:
-                        answer = False
-                        break
+                        return False
                     box = ((row - 1) // 3) * 3 + ((column - 1) // 3) + 1
 
                     if num in boxes[box]:
-                        answer = False
-                        break
+                        return False
                     boxes[box][num] = (row, column)
-        return answer
+        return True
