@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0205-isomorphic-strings) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishalSharma2112/DSA_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
