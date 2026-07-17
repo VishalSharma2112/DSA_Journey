@@ -6,9 +6,9 @@ class Solution:
         for index, i in enumerate(nums):
             length = 0
             if i==0:
-                prefix += 1
-            else:
                 prefix -= 1
+            else:
+                prefix += 1
 
             if prefix not in index_maps:
                 index_maps[prefix] = index
