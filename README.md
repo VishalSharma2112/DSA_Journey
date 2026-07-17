@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
