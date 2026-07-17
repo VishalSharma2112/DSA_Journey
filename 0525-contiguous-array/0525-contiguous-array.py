@@ -4,7 +4,6 @@ class Solution:
         prefix = 0
         max_length = 0
         for index, i in enumerate(nums):
-            length = 0
             if i==0:
                 prefix -= 1
             else:
@@ -13,6 +12,5 @@ class Solution:
             if prefix not in index_maps:
                 index_maps[prefix] = index
             else:
-                length = index - index_maps[prefix]
-            max_length = max(max_length, length)
+                max_length = max(index - index_maps[prefix], max_length)
         return max_length
