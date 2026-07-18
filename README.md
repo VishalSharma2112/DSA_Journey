@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0383-ransom-note) |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
@@ -135,8 +138,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
