@@ -1,7 +1,5 @@
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:
-        if len(arr)==2:
-            return 1
         n = len(arr)
         maps_freq = {}
         answer = []
