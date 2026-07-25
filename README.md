@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
+| [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -189,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 <!---LeetCode Topics End-->
