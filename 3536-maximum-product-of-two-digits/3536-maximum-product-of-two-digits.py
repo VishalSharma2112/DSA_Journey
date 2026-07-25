@@ -1,9 +1,13 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        list_nums = []
-        length = len(str(n))
-        for i in range(length):
-            list_nums.append(n%10)
+        first = second = -1
+
+        while(n>0):
+            digit = n%10
+            if digit >= first:
+                second = first
+                first = digit
+            elif(digit > second):
+                second = digit
             n //= 10
-        sorted_list = sorted(list_nums)
-        return sorted_list[length-1]*sorted_list[length-2]
+        return first * second
