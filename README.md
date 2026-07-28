@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0219-contains-duplicate-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
