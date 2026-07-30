@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
