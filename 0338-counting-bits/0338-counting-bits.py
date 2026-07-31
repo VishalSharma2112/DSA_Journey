@@ -1,12 +1,7 @@
 class Solution:
-    def bits(self, n: int) -> int:
-        count = 0
-        while n:
-            n = n & (n-1)
-            count += 1
-        return count
     def countBits(self, n: int) -> List[int]:
-        ans = []
+        dp = [0]*(n+1)
+
         for i in range(n+1):
-            ans.append(self.bits(i))
-        return ans
+            dp[i] = dp[i>>1] + (i & 1)
+        return dp
