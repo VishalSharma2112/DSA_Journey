@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
