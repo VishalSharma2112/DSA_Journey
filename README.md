@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 ## Greedy
