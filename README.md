@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0476-number-complement/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
