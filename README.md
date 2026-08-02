@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0219-contains-duplicate-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
