@@ -1,5 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> List[int]:
+        if len(nums) == 2:
+            return nums
         XOR = 0
         for i in nums:
             XOR ^= i
