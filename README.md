@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
