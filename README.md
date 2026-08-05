@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0461-hamming-distance](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0476-number-complement/) | Easy |
