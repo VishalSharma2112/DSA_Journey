@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
