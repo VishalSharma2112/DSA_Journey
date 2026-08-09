@@ -7,9 +7,9 @@ class Solution:
             start = i+1
             end = len(nums)-1
             while(end > start):
-                if nums[start] + nums[end] > abs(fixed):
+                if nums[start] + nums[end] > -fixed:
                     end -= 1
-                elif nums[start] + nums[end] < abs(fixed):
+                elif nums[start] + nums[end] < -fixed:
                     start += 1
                 else:
                     ans.add((nums[i], nums[end], nums[start]))
