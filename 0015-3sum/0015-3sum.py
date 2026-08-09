@@ -8,7 +8,7 @@ class Solution:
             fixed = nums[i]
             start = i+1
             end = len(nums)-1
-            while(end > start):
+            while(start < end):
                 if nums[start] + nums[end] > -fixed:
                     end -= 1
                 elif nums[start] + nums[end] < -fixed:
