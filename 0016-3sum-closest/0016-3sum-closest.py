@@ -4,7 +4,7 @@ class Solution:
         closest_sum = 0
         MIN = float('inf')
         n = len(nums)
-        for i in range(n):
+        for i in range(n-2):
             start = i+1
             end = n-1
             while start<end:
