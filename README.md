@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
+| [1672-richest-customer-wealth](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Union-Find
 | Problem Name | Difficulty |
