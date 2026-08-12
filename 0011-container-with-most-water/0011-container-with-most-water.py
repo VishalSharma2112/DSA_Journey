@@ -3,14 +3,14 @@ class Solution:
         n = len(height)
         i = 0
         j = n-1
-        MAX = 0
-        while i < j:
+        area = 0
+        while j > i:
             h = min(height[i], height[j])
             width = j-i
-            MAX = max(MAX, h*width)
+            area = max(area, h*width)
 
-            if height[i] < height[j]:
+            if height[j] > height[i]:
                 i += 1
             else:
                 j -= 1
-        return MAX
+        return area
