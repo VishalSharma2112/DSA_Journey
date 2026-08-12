@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
 | [0125-valid-palindrome](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
