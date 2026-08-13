@@ -13,11 +13,9 @@ public:
         };
         while (j > i){
             if (vowels.count(s[i])==0){
-                cout<<"TRUE, "<<s[i]<<endl;
                 i ++;
             }
             else if (vowels.count(s[j])==0){
-                cout<<"FALSE, "<<s[j]<<endl;
                 j --;
             }
             else{
