@@ -1,7 +1,6 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        n = len(s)-1
-        i = n
+        i = len(s)-1
         ans = []
         while i>=0:
             while i>=0 and s[i]==' ':
