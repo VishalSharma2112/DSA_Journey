@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
