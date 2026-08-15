@@ -2,14 +2,17 @@ class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
         i = 0
         j = len(nums)-1
-        ans = []
+        ans = [0]*len(nums)
+        k = len(nums)-1
         while j >= i:
             right = nums[j]**2
             left = nums[i]**2
             if right > left:
-                ans.append(right)
+                ans[k] = right
                 j -= 1
             else:
-                ans.append(left)
+                ans[k] = left
                 i += 1
-        return ans[::-1]
+            k -= 1
+        return ans
+                
