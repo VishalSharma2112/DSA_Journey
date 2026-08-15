@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
