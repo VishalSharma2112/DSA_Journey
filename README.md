@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0242-valid-anagram) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
