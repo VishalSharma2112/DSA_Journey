@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
