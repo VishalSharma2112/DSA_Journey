@@ -1,14 +1,21 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        n = len(height)
-        suffix_max = height.copy()
-        for i in range(n-2, -1, -1):
-            suffix_max[i] = max(suffix_max[i+1], height[i])
-
-        prefix_max = 0
-        total = 0 
-        for i in range(n):
-            prefix_max = max(prefix_max, height[i])
-            if height[i]<=prefix_max and height[i]<=suffix_max[i]:
-                total += min(prefix_max, suffix_max[i])-height[i]
+        left_max = 0
+        right_max = 0
+        total = 0
+        i = 0
+        j = len(height)-1
+        while i < j:
+            if height[i] < height[j]:
+                if height[i] < left_max:
+                    total += left_max-height[i]
+                else:
+                    left_max = height[i]
+                i += 1
+            else:
+                if height[j] < right_max:
+                    total += right_max - height[j]
+                else:
+                    right_max = height[j]
+                j -= 1
         return total
