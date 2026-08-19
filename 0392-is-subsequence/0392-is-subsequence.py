@@ -9,7 +9,4 @@ class Solution:
             if s[i] == t[j]:
                 i+=1
             j+=1
-        if i == len(s):
-            return True
-        else:
-            return False
+        return i==len(s)
