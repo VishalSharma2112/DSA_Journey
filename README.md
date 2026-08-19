@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0476-number-complement/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
