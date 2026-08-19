@@ -15,16 +15,15 @@ class Solution:
             while start >= 0 and end < n and s[start] == s[end]:
                 start -= 1
                 end += 1
-                
+
             length = end - start - 1
             if length > MAX:
                 MAX = length
                 st = start+1
 
             # EVEN
-            if i+1<n and s[i] == s[i+1]:
-                start = i
-                end = i+1
+            start = i
+            end = i+1
             
             while start >= 0 and end < n and s[start] == s[end]:
                 start -= 1
