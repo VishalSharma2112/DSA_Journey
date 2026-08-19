@@ -10,7 +10,7 @@ class Solution:
                 start -= 1
                 end += 1
             
-            return s[start+1 : (start+1)+(end-start-1)]
+            return s[start+1 : end]
 
         for i in range(n):
             # ODD
