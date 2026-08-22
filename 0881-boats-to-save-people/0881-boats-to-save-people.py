@@ -6,11 +6,8 @@ class Solution:
         j = len(people)-1
 
         while j>=i:
-            if people[i] + people[j] > limit:
-                count += 1
-                j -= 1
-            else:
-                count += 1
+            if people[i] + people[j] <= limit:
                 i += 1
-                j -= 1
+            count += 1
+            j-=1
         return(count)
