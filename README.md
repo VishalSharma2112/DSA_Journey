@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0454-4sum-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0454-4sum-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0454-4sum-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0454-4sum-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
