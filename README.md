@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
