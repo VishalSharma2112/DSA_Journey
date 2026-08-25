@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
