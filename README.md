@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0191-number-of-1-bits/) | Easy |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0392-is-subsequence/) | Easy |
