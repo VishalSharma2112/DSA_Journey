@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
