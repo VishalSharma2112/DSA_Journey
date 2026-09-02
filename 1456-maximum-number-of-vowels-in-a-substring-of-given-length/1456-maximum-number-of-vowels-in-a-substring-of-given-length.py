@@ -11,7 +11,5 @@ class Solution:
                 ans = max(ans, count)
                 if s[i] in vowel:
                     count -= 1
-                    i += 1
-                else:
-                    i += 1
+                i += 1
         return(ans)
