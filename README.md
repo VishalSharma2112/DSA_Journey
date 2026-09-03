@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
