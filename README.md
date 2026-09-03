@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
