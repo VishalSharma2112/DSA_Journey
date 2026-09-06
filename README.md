@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
