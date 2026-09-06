@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Linked List
