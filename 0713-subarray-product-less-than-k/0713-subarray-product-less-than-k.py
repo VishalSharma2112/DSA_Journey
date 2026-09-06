@@ -1,12 +1,12 @@
 class Solution:
     def numSubarrayProductLessThanK(self, nums: List[int], k: int) -> int:
-        if k == 0:
+        if k <= 1:
             return 0
-        if len(nums)==1:
-            if nums[0] < k:
-                return 1
-            else:
-                return 0
+        # if len(nums)==1:
+        #     if nums[0] < k:
+        #         return 1
+        #     else:
+        #         return 0
         left = 0
         count = 0
         window_prod = 1
