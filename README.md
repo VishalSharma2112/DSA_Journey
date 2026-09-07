@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
