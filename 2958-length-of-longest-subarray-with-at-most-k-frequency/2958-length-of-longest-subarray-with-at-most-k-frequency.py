@@ -3,10 +3,14 @@ class Solution:
         maps = {}
         left = 0
         ans = 0
-        for i in range(len(nums)):
-            maps[nums[i]] = maps.get(nums[i], 0)+1
-            while maps[nums[i]] > k:
+        for right in range(len(nums)):
+            maps[nums[right]] = maps.get(nums[right], 0)+1
+
+            while maps[nums[right]] > k:
                 maps[nums[left]] -= 1
+                if maps[nums[left]] == 0:
+                    del maps[nums[left]]
+
                 left += 1
-            ans = max(ans, i-left+1)
+            ans = max(ans, right-left+1)
         return ans
