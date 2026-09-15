@@ -1,37 +1,41 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        if not s or not t:
+            return ""
+
         t_map = {}
         s_map = {}
 
-        def check(s_map, t_map):
-            for i in t_map:
-                if i not in s_map:
-                    return False
-                if t_map[i] > s_map[i]:
-                    return False
-            return True
+        for ch in t:
+            t_map[ch] = t_map.get(ch, 0) + 1
 
-
-        for i in t:
-            t_map[i] = t_map.get(i, 0)+1
+        need = len(t_map)
+        have = 0
 
         left = 0
         min_len = float('inf')
         ans = ""
 
         for right in range(len(s)):
-            s_map[s[right]] = s_map.get(s[right], 0)+1
-            sub_str = s[left:right+1]
-            while check(s_map, t_map):
-                if len(s[left:right+1])<min_len:
-                    ans = s[left:right+1]
-                    min_len = len(ans)
+            ch = s[right]
+            s_map[ch] = s_map.get(ch, 0) + 1
 
-                s_map[s[left]] -= 1
+            if ch in t_map and s_map[ch] == t_map[ch]:
+                have += 1
 
-                if s_map[s[left]] == 0:
-                    del s_map[s[left]]
+            while have == need:
+                window_len = right - left + 1
+
+                if window_len < min_len:
+                    min_len = window_len
+                    ans = s[left:right + 1]
+
+                left_ch = s[left]
+                s_map[left_ch] -= 1
+
+                if left_ch in t_map and s_map[left_ch] < t_map[left_ch]:
+                    have -= 1
 
                 left += 1
-            
+
         return ans
