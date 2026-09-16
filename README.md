@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1207-unique-number-of-occurrences) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1394-find-lucky-integer-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
