@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
