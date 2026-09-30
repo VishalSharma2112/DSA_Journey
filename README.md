@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0392-is-subsequence/) | Easy |
@@ -548,5 +550,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
