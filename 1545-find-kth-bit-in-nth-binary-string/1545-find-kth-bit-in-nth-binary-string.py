@@ -9,6 +9,6 @@ class Solution:
             return "1"
 
         if k < mid:
-            return self.findKthBit(n - 1, k)
+            return str(self.findKthBit(n - 1, k))
         else:
-            return str(1 - int(self.findKthBit(n - 1, 2**n - k)))
+            return str(1 - int(self.findKthBit(n - 1, 2**n % k)))
