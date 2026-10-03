@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [1922-count-good-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1922-count-good-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1922-count-good-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
