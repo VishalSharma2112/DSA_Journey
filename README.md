@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0476-number-complement/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
