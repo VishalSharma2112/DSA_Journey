@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2961-double-modular-exponentiation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3536-maximum-product-of-two-digits/) | Easy |
