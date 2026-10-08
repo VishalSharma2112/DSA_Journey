@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0372-super-pow/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0507-perfect-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
