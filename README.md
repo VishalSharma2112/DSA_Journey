@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0372-super-pow/) | Medium |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0050-powx-n](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
