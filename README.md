@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0242-valid-anagram) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0204-count-primes/) | Medium |
