@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
@@ -616,4 +618,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0204-count-primes/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
