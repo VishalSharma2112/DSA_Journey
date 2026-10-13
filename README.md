@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
