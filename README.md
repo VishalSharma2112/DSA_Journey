@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VishalSharma2112/DSA_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2007-find-original-array-from-doubled-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2007-find-original-array-from-doubled-array/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
