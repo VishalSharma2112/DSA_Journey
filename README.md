@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Design
