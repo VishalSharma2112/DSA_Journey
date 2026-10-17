@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Design
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
