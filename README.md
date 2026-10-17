@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
