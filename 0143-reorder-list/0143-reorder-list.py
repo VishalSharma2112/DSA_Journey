@@ -1,25 +1,21 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
     def reorderList(self, head: ListNode | None) -> None:
         if not head or not head.next:
-            return head
-        move = head
+            return
 
         def reverse(head):
             curr = None
             move = head
+
             while move.next:
                 nextNode = move.next
                 move.next = curr
                 curr = move
                 move = nextNode
+
             move.next = curr
             return move
-        
+
         slow = head
         fast = head
 
@@ -29,20 +25,16 @@ class Solution:
 
         head2 = reverse(slow.next)
         slow.next = None
+
+        move = head
         move2 = head2
 
-        dummy = ListNode(0)
-        move3 = dummy
-
         while move and move2:
-            move3.next = move
-            move = move.next
-            move3 = move3.next
+            next1 = move.next
+            next2 = move2.next
 
-            move3.next = move2
-            move2 = move2.next
-            move3 = move3.next
+            move.next = move2
+            move2.next = next1
 
-        if move2==None and move!=None:
-            move3.next = move
-        return dummy.next
+            move = next1
+            move2 = next2
