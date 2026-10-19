@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
