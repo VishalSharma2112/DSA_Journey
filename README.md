@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
