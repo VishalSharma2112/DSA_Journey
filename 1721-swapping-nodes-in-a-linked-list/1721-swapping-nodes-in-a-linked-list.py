@@ -5,9 +5,8 @@
 #         self.next = next
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        dummy = ListNode(0, head)
-        move = dummy
-        for i in range(k):
+        move = head
+        for i in range(k-1):
             move = move.next
         initial = move
 
@@ -16,8 +15,6 @@ class Solution:
             slow = slow.next
             move = move.next
         
-        temp = slow.val
-        slow.val = initial.val
-        initial.val = temp
+        slow.val, initial.val = initial.val, slow.val
         
         return head
