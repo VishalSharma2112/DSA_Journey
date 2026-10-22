@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
@@ -691,4 +692,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
