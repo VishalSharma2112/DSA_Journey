@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
