@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0125-valid-palindrome/) | Easy |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
