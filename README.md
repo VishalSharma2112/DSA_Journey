@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
