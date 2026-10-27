@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0137-single-number-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0204-count-primes/) | Medium |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0050-powx-n/) | Medium |
 | [0069-sqrtx](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
