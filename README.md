@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0647-palindromic-substrings/) | Medium |
+| [0649-dota2-senate](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0011-container-with-most-water/) | Medium |
+| [0649-dota2-senate](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0881-boats-to-save-people/) | Medium |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0649-dota2-senate](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0649-dota2-senate/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
