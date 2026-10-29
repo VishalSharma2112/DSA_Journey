@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0725-split-linked-list-in-parts/) | Medium |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0649-dota2-senate/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
