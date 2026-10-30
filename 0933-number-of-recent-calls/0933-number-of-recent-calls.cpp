@@ -1,6 +1,5 @@
 class RecentCounter {
     queue<int> arr;
-    int size = 0;
 public:
     RecentCounter() {
         
@@ -8,15 +7,10 @@ public:
     
     int ping(int t) {
         arr.push(t);
-        size += 1;
-        if(t-arr.front() <= 3000){
-            return size;
-        }
         while(t-arr.front() > 3000){
             arr.pop();
-            size -= 1;
         }
-        return size;
+        return arr.size();
     }
 };
 
