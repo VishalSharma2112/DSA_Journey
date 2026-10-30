@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0622-design-circular-queue](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0622-design-circular-queue/) | Medium |
 | [0649-dota2-senate](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0649-dota2-senate/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -728,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
