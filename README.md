@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0258-add-digits/) | Easy |
+| [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
