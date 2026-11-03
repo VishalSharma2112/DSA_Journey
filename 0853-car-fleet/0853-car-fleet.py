@@ -6,11 +6,6 @@ class Solution:
         print(position,speed)
         stack = []
         for i in range(len(position)-1, -1, -1):
-            if speed[i] == 0:
-                if position[i] == target:
-                    stack.append(0)
-                else:
-                    continue
             time = (target - position[i])/speed[i]
             if(len(stack) == 0):
                 stack.append(time)
