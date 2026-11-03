@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0890-find-and-replace-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0890-find-and-replace-pattern/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
+| [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
