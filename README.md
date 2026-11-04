@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1470-shuffle-the-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1470-shuffle-the-array/) | Easy |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1814-count-nice-pairs-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Monotonic Stack
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
