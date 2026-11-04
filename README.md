@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0846-hand-of-straights/) | Medium |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0881-boats-to-save-people](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0881-boats-to-save-people/) | Medium |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Manacher
