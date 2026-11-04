@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0454-4sum-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0454-4sum-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0454-4sum-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0853-car-fleet](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 ## Manacher
