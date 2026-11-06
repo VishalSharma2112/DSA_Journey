@@ -14,9 +14,7 @@ class Solution:
                     stack.pop()
                 num = int(temp[::-1])
 
-                for i in range(num):
-                    for j in range(len(stack2)-1, -1, -1):
-                        stack.append(stack2[j])
+                stack.extend(stack2[::-1] * num)
             else:
                 stack.append(s[i])
         return ''.join(stack)
