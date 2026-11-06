@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
 | [0779-k-th-symbol-in-grammar](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
