@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0155-min-stack/) | Medium |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
