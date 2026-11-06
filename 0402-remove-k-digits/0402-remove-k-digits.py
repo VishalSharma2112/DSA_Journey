@@ -11,10 +11,9 @@ class Solution:
                 continue
             stack.append(num[i])
         ans = ''.join(stack)
-        print(k, ans)
+        
         if k >= len(ans):
             return "0"
-
         return ans[:len(ans)-k]
 
             
