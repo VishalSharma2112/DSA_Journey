@@ -40,9 +40,9 @@ class Solution:
         area = -1
         for index, i in enumerate(matrix):
             for j in range(len(i)):
-                if int(i[j])==0:
+                if i[j]=="0":
                     arr[j] = 0
                 else:
-                    arr[j] = int(arr[j])+int(i[j])
+                    arr[j] += 1
             area = max(histogram(arr), area)
         return area
