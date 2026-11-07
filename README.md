@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0454-4sum-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0454-4sum-ii/) | Medium |
+| [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0735-asteroid-collision/) | Medium |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0402-remove-k-digits/) | Medium |
+| [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0739-daily-temperatures/) | Medium |
@@ -782,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0933-number-of-recent-calls/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
