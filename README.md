@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0258-add-digits/) | Easy |
 | [0264-ugly-number-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0264-ugly-number-ii/) | Medium |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
+| [0224-basic-calculator](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0224-basic-calculator/) | Hard |
 | [0231-power-of-two](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0326-power-of-three/) | Easy |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0234-palindrome-linked-list/) | Easy |
