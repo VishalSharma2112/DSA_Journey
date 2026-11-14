@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2961-double-modular-exponentiation](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2961-double-modular-exponentiation/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VishalSharma2112/DSA_Journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/VishalSharma2112/DSA_Journey/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
