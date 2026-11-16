@@ -1,16 +1,16 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
-        def squareRt(low, high, num):
+        def squareRt(low, high):
             mid = (high+low)//2
 
-            if mid*mid == num:
+            if mid*mid == x:
                 return mid
             if low > high:
                 return high
 
-            if mid*mid < num:
-                return squareRt(mid+1, high, num)
+            if mid*mid < x:
+                return squareRt(mid+1, high)
             else:
-                return squareRt(low, mid-1, num)
+                return squareRt(low, mid-1)
         
-        return squareRt(1, x, x)
+        return squareRt(1, x)
