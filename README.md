@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -803,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
