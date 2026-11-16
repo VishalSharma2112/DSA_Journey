@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0372-super-pow/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0441-arranging-coins](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0441-arranging-coins/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0507-perfect-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0509-fibonacci-number/) | Easy |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/VishalSharma2112/DSA_Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0441-arranging-coins/) | Easy |
 | [0456-132-pattern](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0456-132-pattern/) | Medium |
 | [0704-binary-search](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/VishalSharma2112/DSA_Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
